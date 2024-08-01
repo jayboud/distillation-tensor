@@ -5,4 +5,4 @@ utilities:
 - Date: 2024-08-01
 =#
 
-println("Hello World")
+println("Hello")
